@@ -11,6 +11,8 @@ I specialize in creating seamless user experiences and visually appealing interf
 Exploring the realms of 3D modeling and rendering, I bring concepts to life with attention to detail and realism. My portfolio includes character designs, environmental art, and intricate prop models.
 
 ## 📸 Photography & 🎥 Videography
+![20250205_145732](https://github.com/user-attachments/assets/9d672f87-7d38-4680-a992-c6325fd4206a)
+
 
 Capturing moments through my lens, I focus on storytelling and aesthetics. My work ranges from portrait photography to dynamic videography projects, each crafted to evoke emotion and convey narratives.
 
