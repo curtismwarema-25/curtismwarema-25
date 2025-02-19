@@ -15,10 +15,10 @@ Hi! I'm a **Software Engineer, UI/UX Designer, 3D Artist, 2D Animator, and Graph
 **[3d-art](https://github.com/curtismwarema-25/3d-art)** – High-quality **3D models, renders, and animations**, created with **Blender and Cinema 4D**.  
 
 ### **🎞️ 2D Animation**  
-**[2d-animation](https://github.com/curtismwarema-25/2d-animation)** – Hand-drawn and digital **2D animations**, including short clips, logo animations, and explainer videos, designed using **Adobe After Effects, Toon Boom Harmony, and Krita**.  
+**[2d-animation](https://github.com/curtismwarema-25/2-D-animation)** – Hand-drawn and digital **2D animations**, including short clips, logo animations, and explainer videos, designed using **Adobe After Effects, Toon Boom Harmony, and Krita**.  
 
 ### **📷 Photography & Videography**  
-**[photo-video](https://github.com/curtismwarema-25/photo-video)** – A curated selection of **photographs, edited images, and video projects**, showcasing storytelling through visuals.  
+**[photo-video](https://github.com/curtismwarema-25/photography)** – A curated selection of **photographs, edited images, and video projects**, showcasing storytelling through visuals.  
 
 ### **📊 Info-Graphics**  
 **[info-graphics](https://github.com/curtismwarema-25/info-graphics)** – A mix of **static and motion graphics** including **posters, social media designs, data visualizations, and animated explainer videos** made with **Adobe Photoshop, Illustrator, and After Effects**.  
@@ -27,7 +27,7 @@ Hi! I'm a **Software Engineer, UI/UX Designer, 3D Artist, 2D Animator, and Graph
 **[web-projects](https://github.com/curtismwarema-25/web-projects)** – Simple yet **beautiful and functional websites**, built with **HTML, CSS, JavaScript, and React**, balancing aesthetics and performance.  
 
 ### **🛠️ Open Source Contributions**  
-**[open-source-contributions](https://github.com/curtismwarema-25/open-source-contributions)** – A collection of my contributions to **various open-source projects**, improving codebases, fixing bugs, and adding new features.  
+**[open-source-contributions](https://github.com/curtismwarema-25/WRRIC)** – A collection of my contributions to **various open-source projects**, improving codebases, fixing bugs, and adding new features.  
 
 ---
 
