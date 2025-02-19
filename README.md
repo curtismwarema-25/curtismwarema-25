@@ -1,36 +1,39 @@
-Hello, I'm Curtis Mwarema! 👋
+# **👋 Welcome to My GitHub Portfolio!**  
 
-Welcome to my GitHub profile! I'm a passionate **UI/UX Designer**, **3D Artist**, **Photographer**, **Videographer**, and **Web Developer**. I enjoy crafting intuitive designs and developing elegant, user-friendly websites.
+### 🎨 **UI/UX | 3D Art | 2D Animation | Photography | Videography | Graphic Design | Web Development**  
 
-🎨 UI/UX Design
+Hi! I'm a **Software Engineer, UI/UX Designer, 3D Artist, 2D Animator, and Graphic Designer** passionate about creating visually stunning and functional projects. This GitHub showcases my work across different creative and technical domains.  
 
-I specialize in creating seamless user experiences and visually appealing interfaces. My design process involves thorough research, wireframing, prototyping, and user testing to ensure the final product is both functional and delightful.
+---
 
-## 🖌️ 3D Art
+## **📌 Featured Repositories**  
 
-Exploring the realms of 3D modeling and rendering, I bring concepts to life with attention to detail and realism. My portfolio includes character designs, environmental art, and intricate prop models.
+### **🎨 UI/UX Designs**  
+**[ui-ux-designs](https://github.com/your-username/ui-ux-designs)** – A collection of **wireframes, prototypes, and design systems** for websites and apps, created using **Figma and Adobe XD**.  
 
-## 📸 Photography & 🎥 Videography
-![20250205_145732](https://github.com/user-attachments/assets/9d672f87-7d38-4680-a992-c6325fd4206a)
+### **🖌️ 3D Art & Animation**  
+**[3d-art](https://github.com/your-username/3d-art)** – High-quality **3D models, renders, and animations**, created with **Blender and Cinema 4D**.  
 
+### **🎞️ 2D Animation**  
+**[2d-animation](https://github.com/your-username/2d-animation)** – Hand-drawn and digital **2D animations**, including short clips, logo animations, and explainer videos, designed using **Adobe After Effects, Toon Boom Harmony, and Krita**.  
 
-Capturing moments through my lens, I focus on storytelling and aesthetics. My work ranges from portrait photography to dynamic videography projects, each crafted to evoke emotion and convey narratives.
+### **📷 Photography & Videography**  
+**[photo-video](https://github.com/your-username/photo-video)** – A curated selection of **photographs, edited images, and video projects**, showcasing storytelling through visuals.  
 
-## 💻 Web Development
+### **📊 Info-Graphics**  
+**[info-graphics](https://github.com/your-username/info-graphics)** – A mix of **static and motion graphics** including **posters, social media designs, data visualizations, and animated explainer videos** made with **Adobe Photoshop, Illustrator, and After Effects**.  
 
-I develop clean, responsive websites with a focus on simplicity and performance. Utilizing technologies like HTML, CSS, JavaScript, and frameworks such as React, I build digital experiences that are both beautiful and efficient.
+### **💻 Web Development**  
+**[web-projects](https://github.com/your-username/web-projects)** – Simple yet **beautiful and functional websites**, built with **HTML, CSS, JavaScript, and React**, balancing aesthetics and performance.  
 
-## 🤝 Collaborations
+### **🛠️ Open Source Contributions**  
+**[open-source-contributions](https://github.com/your-username/open-source-contributions)** – A collection of my contributions to **various open-source projects**, improving codebases, fixing bugs, and adding new features.  
 
-Currently, I'm collaborating with **asiliHub** and **DarajaMbili Vision Volunteers**, contributing my skills to projects that make a positive impact.
+---
 
-## 📫 Let's Connect!
+## **🚀 What I’m Currently Working On**  
+🔹 Creating engaging **2D and motion graphics animations** for digital marketing and branding.  
+🔹 Expanding my **web development** skills with new design concepts.  
+🔹 Building a **GitHub portfolio** that showcases my **UI/UX, 3D, and design projects**.  
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me via curtismwarema01@gmail.com or connect with me on [instagram](@i.am_curtis).
-
-
-
-<!---
-curtismwarema-25/curtismwarema-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
