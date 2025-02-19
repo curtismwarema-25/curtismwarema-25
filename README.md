@@ -1,4 +1,4 @@
-# **👋 Welcome to My GitHub Portfolio!**  
+![20250202_100806](https://github.com/user-attachments/assets/0c25956f-4223-43a4-83a5-1715e634e1c6)# **👋 Welcome to My GitHub Portfolio!**  
 
 ### 🎨 **UI/UX | 3D Art | 2D Animation | Photography | Videography | Graphic Design | Web Development**  
 
@@ -18,9 +18,13 @@ Hi! I'm a **Software Engineer, UI/UX Designer, 3D Artist, 2D Animator, and Graph
 **[2d-animation](https://github.com/curtismwarema-25/2-D-animation)** – Hand-drawn and digital **2D animations**, including short clips, logo animations, and explainer videos, designed using **Adobe After Effects, Toon Boom Harmony, and Krita**.  
 
 ### **📷 Photography & Videography**  
+![20250202_100806](https://github.com/user-attachments/assets/0f916930-0c26-4753-8f71-dd99dfe6e6b2)
+
 **[photo-video](https://github.com/curtismwarema-25/photography)** – A curated selection of **photographs, edited images, and video projects**, showcasing storytelling through visuals.  
 
 ### **📊 Info-Graphics**  
+![mediamodifier_image (1)](https://github.com/user-attachments/assets/2c62ba6f-4888-47bd-b31e-d2790948c44c)
+
 **[info-graphics](https://github.com/curtismwarema-25/info-graphics)** – A mix of **static and motion graphics** including **posters, social media designs, data visualizations, and animated explainer videos** made with **Adobe Photoshop, Illustrator, and After Effects**.  
 
 ### **💻 Web Development**  
