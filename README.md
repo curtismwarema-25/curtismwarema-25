@@ -1,4 +1,4 @@
-![20250202_100806](https://github.com/user-attachments/assets/0c25956f-4223-43a4-83a5-1715e634e1c6)# **👋 Welcome to My GitHub Portfolio!**  
+# **👋 Welcome to My GitHub Portfolio!**  
 
 ### 🎨 **UI/UX | 3D Art | 2D Animation | Photography | Videography | Graphic Design | Web Development**  
 
