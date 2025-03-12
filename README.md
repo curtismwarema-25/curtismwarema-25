@@ -11,7 +11,7 @@ Hi! I'm a **Software Engineer, UI/UX Designer, 3D Artist, 2D Animator, and Graph
 ### **🤖 AI & Machine Learning**  
 As part of my exploration into **AI and intelligent systems**, I’ve been integrating **Retrieval-Augmented Generation (RAG)** techniques into some of my projects to enhance **knowledge retrieval and interactive AI applications**.  
 
-🔗 **[Espresso(RAG)](https://github.com/curtismwarema-25/Espresso-RAG)** – A project utilizing **LLMs, FAISS, and LangChain** to power smart document interaction.  
+🔗 **[Espresso(RAG)](https://github.com/curtismwarema-25/Espress-RAG)** – A project utilizing **LLMs, FAISS, and LangChain** to power smart document interaction.  
 
 - Implements **local embeddings** for **efficient vector-based search**.  
 - Designed for **offline and privacy-focused** AI interactions using **GPT4All**.  
